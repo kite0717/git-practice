@@ -1,0 +1,5 @@
+universitiy gachon
+class AI
+name Park So Yeon
+new
+lecture opensource SW
